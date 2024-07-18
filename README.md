@@ -9,12 +9,8 @@
 ###
 
 <div align="left">
-  <img height="50" src="https://readme-typing-svg.demolab.com?font=Honk&duration=4000&pause=1500&width=435&lines=Welcome+to+my+GitHub+page!;Where+my+ideas+turn+into+codes+%3A);This+is+literally+about+me!!;Personality+type%3A+ENFJ+(The+Protagonist);Casual+Gamer%2C+Techworm%2C+Life+Lover"  />
+  <img height="60" src="https://readme-typing-svg.demolab.com?font=Honk&duration=4000&pause=1500&width=435&lines=Welcome+to+my+GitHub+page!;Where+my+ideas+turn+into+codes+%3A);This+is+literally+about+me!!;Personality+type%3A+ENFJ+(The+Protagonist);Casual+Gamer%2C+Techworm%2C+Life+Lover"  />
 </div>
-
-###
-
-<br clear="both">
 
 <h2 align="left"></h2>
 
@@ -38,14 +34,11 @@
 
 <br clear="both">
 
-<img align="left" height="25" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png"  />
-
-###
-
 <img align="right" height="200" src="https://media.tenor.com/64epAObK2joAAAAj/finn-dance.gif"  />
 
 ###
 
+<img align="left" height="25" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png"  />
 <h3 align="left">Tech me:</h3>
 
 ###
@@ -56,13 +49,11 @@
 
 <br clear="both">
 
-<img align="left" height="25" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Student%20Medium%20Skin%20Tone.png"  />
-
-###
-
 <img align="right" height="200" src="https://media.contentapi.ea.com/content/dam/eacom/SIMS/franchise-homepage/240322/common/thesims-plumbob-simpsirations.gif"  />
 
 ###
+
+<img align="left" height="25" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Student%20Medium%20Skin%20Tone.png"  />
 
 <h3 align="left">Education:</h3>
 
@@ -70,17 +61,14 @@
 
 <p align="left">• Currently getting a degree on System Analysis and Development (I.T.)<br>• Tech High School degree in I.T.<br>• Ongoing studies in Data Science and related areas.</p>
 
-###
-
-<img align="left" height="25" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Medium%20Skin%20Tone.png"  />
-
-###
 
 <br clear="both">
 
 <img align="right" height="200" src="https://media.tenor.com/ZUVt_I76_2sAAAAi/slime-rancher.gif"  />
 
 ###
+
+<img align="left" height="25" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Medium%20Skin%20Tone.png"  />
 
 <h3 align="left">Hobbies:</h3>
 
