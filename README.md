@@ -150,9 +150,3 @@
 <br clear="both">
 
 <h1 align="left">📲My contributions</h1>
-
-###
-
-<img src="https://raw.githubusercontent.com/gaelcoder/gaelcoder/output/snake.svg" alt="Snake animation" />
-
-###
