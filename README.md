@@ -59,7 +59,7 @@
 
 ###
 
-<p align="left">• Currently getting a degree on System Analysis and Development (I.T.)<br>• Tech High School degree in I.T.<br>• Ongoing studies in Data Science and related areas.</p>
+<p align="left">• Currently getting a bachelor's degree on Software Engineering and before it I was enrolled in another Uni for System Analysis and Development for a bit more than a year<br>• Tech High School degree in I.T.<br>• Ongoing studies in Data Science and related areas.</p>
 
 
 <br clear="both">
