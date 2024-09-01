@@ -22,7 +22,7 @@
 
 ###
 
-<h3 align="left">•  Programming fan and Systems Analysis and Development student. 👨‍💻<br><br>• Now focusing on learning Data Science and Machine Learning. 📊🐍 <br><br>• Languages I speak: 🇧🇷 🇬🇧 🇪🇸 🇫🇷<br><br>• Open for internship proposals!💼</h3>
+<h3 align="left">•  Programming fan and Software Engineering student. 👨‍💻<br><br>• Focused on Back-End activities, but still love Front <3 📊🐍 <br><br>• Languages I speak: 🇧🇷 🇬🇧 🇪🇸 🇫🇷<br><br>• Open for internship proposals!💼</h3>
 
 ###
 
