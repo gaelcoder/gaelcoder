@@ -12,17 +12,9 @@
   <img height="60" src="https://readme-typing-svg.demolab.com?font=Honk&duration=4000&pause=1500&width=435&lines=Welcome+to+my+GitHub+page!;Where+my+ideas+turn+into+codes+%3A);This+is+literally+about+me!!;Personality+type%3A+ENFJ+(The+Protagonist);Casual+Gamer%2C+Techworm%2C+Life+Lover"  />
 </div>
 
-<h2 align="left"></h2>
-
 ###
 
-<br clear="both">
-
-<img align="right" height="200" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/053ffc1f-b5a6-4c3c-b778-cd4c008943b6/d98wzle-576c7532-79ed-448f-956c-4ec3ce4f3ff3.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzA1M2ZmYzFmLWI1YTYtNGMzYy1iNzc4LWNkNGMwMDg5NDNiNlwvZDk4d3psZS01NzZjNzUzMi03OWVkLTQ0OGYtOTU2Yy00ZWMzY2U0ZjNmZjMuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.FyNjtBctGauGqKqk7HvFM1sDpSJALTAvjkVtbY6qmyE"  />
-
-###
-
-<h3 align="left">•  Programming fan and Software Engineering student. 👨‍💻<br><br>• Focused on Back-End activities, but still love Front <3 📊🐍 <br><br>• Languages I speak: 🇧🇷 🇬🇧 🇪🇸 🇫🇷<br><br>• Open for internship proposals!💼</h3>
+<h3 align="left"> Languages I speak: 🇧🇷 🇬🇧 🇪🇸 🇫🇷<br><br>• Looking for an internship!💼</h3>
 
 ###
 
@@ -39,11 +31,11 @@
 ###
 
 <img align="left" height="25" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png"  />
-<h3 align="left">Tech me:</h3>
+<h3 align="left">About me:</h3>
 
 ###
 
-<h5 align="left">I'm Gabriel, 19 years old. I have loved everything about computers and stuff since I was a kid, but I only started studying programming logics and basics in 2019, in high school. There I learned Java, HTML, PHP, CSS, Data Modeling and SQL throughout it. Got 2 internships while in HS, but sadly none of them were about development.  Now I'm in the best university for my area, learning even more and searching for internships to sum up with some experience.</h5>
+<h5 align="left">I'm Gabriel, 19 years old. Been programming since high school, I got a technical degree in I.T., now I'm enrolled in Uni, for a bachelor's degree in Software Engineering.</h5>
 
 ###
 
@@ -65,16 +57,6 @@
 <br clear="both">
 
 <img align="right" height="200" src="https://media.tenor.com/ZUVt_I76_2sAAAAi/slime-rancher.gif"  />
-
-###
-
-<img align="left" height="25" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Medium%20Skin%20Tone.png"  />
-
-<h3 align="left">Hobbies:</h3>
-
-###
-
-<p align="left">• Languages<br>• Photography<br>• Movies<br>• Music<br>• Cooking</p>
 
 ###
 
