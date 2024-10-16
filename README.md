@@ -77,8 +77,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
   <img width="12" />
   <img src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://brandslogos.com/wp-content/uploads/images/large/typescript-original.svg" height="40" alt="typescript logo"  />
 </div>
 
 ###
