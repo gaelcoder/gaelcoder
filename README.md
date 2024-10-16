@@ -9,12 +9,12 @@
 ###
 
 <div align="left">
-  <img height="60" src="https://readme-typing-svg.demolab.com?font=Honk&duration=4000&pause=1500&width=435&lines=Welcome+to+my+GitHub+page!;Where+my+ideas+turn+into+codes+%3A);"  />
+  <img height="60" src="https://readme-typing-svg.demolab.com?font=Honk&duration=4000&pause=1500&width=435&lines=Welcome+to+my+GitHub+page!/>
 </div>
 
 ###
 
-<h3 align="left"> Languages I speak: 🇧🇷 🇬🇧 🇪🇸 🇫🇷<br><br>• Looking for an internship!💼</h3>
+<h3 align="left"> Languages I speak: Portuguese, English, Spanish and French<br><br>• Looking for an internship!💼</h3>
 
 ###
 
@@ -23,6 +23,10 @@
 <h3 align="left">A bit more about me 📀</h3>
 
 ###
+
+<br clear="both">
+
+<img align="right" height="200" src="https://media.tenor.com/64epAObK2joAAAAj/finn-dance.gif"  />
 
 ###
 
@@ -37,13 +41,22 @@
 
 <br clear="both">
 
-<img align="left" height="25" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Student%20Medium%20Skin%20Tone.png"  />
+<img align="right" height="200" src="https://media.contentapi.ea.com/content/dam/eacom/SIMS/franchise-homepage/240322/common/thesims-plumbob-simpsirations.gif"  />
+
+###
 
 <h3 align="left">Education:</h3>
 
 ###
 
 <p align="left">• Currently getting a bachelor's degree on Software Engineering and before it I was enrolled in another Uni for System Analysis and Development for a bit more than a year<br>• Tech High School degree in I.T.<br>• Ongoing studies in Data Science and related areas.</p>
+
+
+<br clear="both">
+
+<img align="right" height="200" src="https://media.tenor.com/ZUVt_I76_2sAAAAi/slime-rancher.gif"  />
+
+###
 
 <br clear="both">
 
@@ -67,6 +80,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/java-original.svg" height="40" alt="java logo"  />
 </div>
 
 ###
