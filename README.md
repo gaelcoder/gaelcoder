@@ -26,8 +26,6 @@
 
 <br clear="both">
 
-<img align="right" height="200" src="https://media.tenor.com/64epAObK2joAAAAj/finn-dance.gif"  />
-
 ###
 
 <img align="left" height="25" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png"  />
@@ -35,13 +33,11 @@
 
 ###
 
-<h5 align="left">I'm Gabriel, 19 years old. Been programming since high school, I got a technical degree in I.T., now I'm enrolled in Uni, for a bachelor's degree in Software Engineering.</h5>
+<h5 align="left">I'm Gabriel, 19 years old. Been programming since high school, I got a technical degree in I.T. and now I'm enrolled in Uni for a bachelor's degree in Software Engineering.</h5>
 
 ###
 
 <br clear="both">
-
-<img align="right" height="200" src="https://media.contentapi.ea.com/content/dam/eacom/SIMS/franchise-homepage/240322/common/thesims-plumbob-simpsirations.gif"  />
 
 ###
 
@@ -54,7 +50,6 @@
 
 <br clear="both">
 
-<img align="right" height="200" src="https://media.tenor.com/ZUVt_I76_2sAAAAi/slime-rancher.gif"  />
 
 ###
 
@@ -81,7 +76,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/java-original.svg" height="40" alt="java logo"  />
+  <img src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" height="40" alt="java logo"  />
 </div>
 
 ###
