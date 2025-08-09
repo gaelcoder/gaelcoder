@@ -15,7 +15,7 @@ Atualmente cursando Engenharia de Software (Previsão de formatura: 2028.1). Exp
 - **Banco de Dados:** MySQL, SQLite  
 - **Versionamento:** Git / GitHub  
 - **Design:** Figma, Adobe Illustrator
-- 
+
 ###
 
 ## Formação Acadêmica
