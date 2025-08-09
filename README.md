@@ -4,7 +4,7 @@
 
 ###
 
-<h1 align="left"> Olá, eu sou o Gabriel Lima!</h1>
+# Olá, eu sou o Gabriel Lima!
 
 ###
 
