@@ -4,17 +4,7 @@
 
 ###
 
-<img align="left" height="60" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Ringed%20Planet.png"  />
-
-###
-
-<div align="left">
-  <img height="60" src="https://readme-typing-svg.demolab.com?font=Honk&duration=4000&pause=1500&width=435&lines=Welcome+to+my+GitHub+page!/>
-</div>
-
-###
-
-<h3 align="left"> Languages I speak: Portuguese, English, Spanish and French<br><br>• Looking for an internship!💼</h3>
+<h1 align="left"> Olá, eu sou o Gabriel Lima!</h1>
 
 ###
 
