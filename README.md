@@ -2,8 +2,6 @@
   <img height="100%" width="100%" src="https://github.com/gaelcoder/imgreadme/blob/main/topbanner.png?raw=true"  />
 </div>
 
-###
-
 # Olá, eu sou o Gabriel Lima!
 
 ###
