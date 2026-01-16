@@ -43,6 +43,3 @@ Sou fluente em inglês, com nível avançado em espanhol e intermediário em fra
 ## Contato
 **LinkedIn:** [linkedin.com/in/limagael](https://linkedin.com/in/limagael)  
 
-###
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=gaelcoder&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
