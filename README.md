@@ -12,7 +12,7 @@ Sou fluente em inglês, com nível avançado em espanhol e intermediário em fra
 
 ## Tecnologias & Ferramentas
 - **Back-end:** Java, Spring Boot, Spring Data JPA, APIs REST  
-- **Banco de Dados:** SQL, MySQL, SQLite  
+- **Banco de Dados:** SQL, MySQL, PostgreSQL 
 - **Front-end (complementar):** Angular, TypeScript, HTML, CSS  
 - **Outros:** Git / GitHub
 
