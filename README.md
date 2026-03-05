@@ -4,39 +4,67 @@
 
 # Olá, eu sou o Gabriel Lima!
 
+🎓 Engenharia de Software (formatura prevista: 2028.1)  
+💻 Foco em Desenvolvimento Back-end  
+🌎 Inglês fluente | Espanhol avançado | Francês intermediário | Alemão Básico 
+
 ## Sobre Mim
-Sou estudante de Engenharia de Software (previsão de formatura: 2028.1), com foco em **desenvolvimento back-end**, atuando principalmente com **Java e Spring Boot** no desenvolvimento de **APIs REST** e aplicações orientadas a dados. Possuo experiência prática em projetos acadêmicos e pessoais, com base sólida em **bancos de dados relacionais**, **SQL** e integração de sistemas. Tenho conhecimento complementar em **front-end com Angular**.  
-Sou fluente em inglês, com nível avançado em espanhol e intermediário em francês.
+- Desenvolvedor em formação com foco em **Java e Spring Boot**, atuando na construção de **APIs RESTful**, aplicações orientadas a dados e integração com bancos relacionais.
+= Tenho experiência prática em projetos acadêmicos e pessoais envolvendo **arquitetura em camadas**, modelagem de dados, autenticação baseada em perfis e organização de código voltada à escalabilidade.
+- Possuo conhecimento complementar em **Angular**, ampliando a visão fullstack quando necessário.
 
 ###
 
-## Tecnologias & Ferramentas
-- **Back-end:** Java, Spring Boot, Spring Data JPA, APIs REST  
-- **Banco de Dados:** SQL, MySQL, PostgreSQL 
-- **Front-end (complementar):** Angular, TypeScript, HTML, CSS  
-- **Outros:** Git / GitHub
+## 🚀 Stack Principal
+
+**Back-end**  
+Java • Spring Boot • Python 
+
+**Banco de Dados**  
+MySQL • PostgreSQL • SQL  
+
+**Front-end**  
+Angular • TypeScript • HTML • CSS  
+
+**Cloud**
+AWS
+
+**Ferramentas**  
+Git • GitHub  
+
 
 ###
 
-## Formação Acadêmica
-- **Engenharia de Software** – Instituto Infnet *(cursando, previsão de formatura: 2028.1)*  
-- **Técnico em Informática (ênfase em sistemas)** – ISERJ *(concluído)*  
+## 🎓 Formação Acadêmica
 
-##
-
-## Projetos em Destaque
-
-### [Unify – Backend](https://github.com/gaelcoder/unify-new)
-**Descrição:** Backend do sistema **Unify**, desenvolvido em **Java com Spring Boot**, voltado à gestão acadêmica e administrativa. A aplicação fornece **APIs RESTful** para módulos de instituições, cursos, pessoas, matrículas, histórico e notificações.  
-**Tecnologias:** Java, Spring Boot, Spring Data JPA, APIs REST, SQLite.  
-**Destaques:** Arquitetura modular, scripts de carga inicial de dados, autenticação baseada em perfis e organização orientada à escalabilidade.
+- Engenharia de Software – Instituto Infnet (em andamento)  
+- Técnico em Desenvolvimento em Sistemas – ISERJ-FAETEC
 
 ###
 
-### [Unify – Frontend](https://github.com/gaelcoder/unify-front)
-**Descrição:** Interface web do sistema **Unify**, desenvolvida em **Angular**, consumindo as APIs do backend.  
-**Tecnologias:** Angular, TypeScript, HTML, CSS.  
-**Destaques:** Integração com API e foco em usabilidade.
+## 📌 Projetos em Destaque
+
+## 🔹 [Unify – Backend](https://github.com/gaelcoder/unify-new)
+
+Sistema acadêmico e administrativo desenvolvido com **Java + Spring Boot**, oferecendo APIs RESTful para gerenciamento de instituições, cursos, pessoas, matrículas, histórico e notificações.
+
+**Destaques técnicos:**
+- Arquitetura modular
+- Spring Data JPA
+- Scripts de carga inicial
+- Autenticação baseada em perfis
+- Organização orientada à escalabilidade
+
+###
+
+## 🔹 [Unify – Frontend](https://github.com/gaelcoder/unify-front)
+
+Interface web desenvolvida em **Angular**, consumindo as APIs do backend.
+
+**Destaques técnicos:**
+- Integração com API REST
+- Estrutura modular
+- Foco em usabilidade
 
 ##
 
