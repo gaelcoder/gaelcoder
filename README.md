@@ -69,5 +69,5 @@ Interface web desenvolvida em **Angular**, consumindo as APIs do backend.
 ##
 
 ## Contato
-**LinkedIn:** [linkedin.com/in/limagael](https://linkedin.com/in/limagael)  
+**LinkedIn:** [linkedin.com/in/limagael](https://linkedin.com/in/gabrielsaz)  
 
