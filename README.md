@@ -10,7 +10,7 @@
 
 ## Sobre Mim
 - Desenvolvedor em formação com foco em **Java e Spring Boot**, atuando na construção de **APIs RESTful**, aplicações orientadas a dados e integração com bancos relacionais.
-= Tenho experiência prática em projetos acadêmicos e pessoais envolvendo **arquitetura em camadas**, modelagem de dados, autenticação baseada em perfis e organização de código voltada à escalabilidade.
+- Tenho experiência prática em projetos acadêmicos e pessoais envolvendo **arquitetura em camadas**, modelagem de dados, autenticação baseada em perfis e organização de código voltada à escalabilidade.
 - Possuo conhecimento complementar em **Angular**, ampliando a visão fullstack quando necessário.
 
 ###
@@ -27,7 +27,7 @@ MySQL • PostgreSQL • SQL
 Angular • TypeScript • HTML • CSS  
 
 **Cloud**
-AWS • 
+- AWS
 
 **Ferramentas**  
 Git • GitHub  
