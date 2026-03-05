@@ -27,7 +27,7 @@ MySQL • PostgreSQL • SQL
 Angular • TypeScript • HTML • CSS  
 
 **Cloud**
-AWS
+AWS • 
 
 **Ferramentas**  
 Git • GitHub  
