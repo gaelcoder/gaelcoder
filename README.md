@@ -57,7 +57,7 @@ Sistema acadêmico e administrativo desenvolvido com **Java + Spring Boot**, ofe
 
 ###
 
-## 🔹 [Sensorizador](htttps://www.github.com/gaelcoder/analise-sensores)
+## 🔹 [Sensorizador](htttps://github.com/gaelcoder/analise-sensores)
 
 Plataforma de monitoramento de sensores desenvolvida com **Python + Django**, oferecendo uma interface web intuitiva e APIs RESTful para ingestão, visualização e análise de dados de equipamentos.
 
