@@ -57,6 +57,19 @@ Sistema acadêmico e administrativo desenvolvido com **Java + Spring Boot**, ofe
 
 ###
 
+## 🔹 [Sensorizador](github.com/gaelcoder/analise-sensores)
+
+Plataforma de monitoramento de sensores desenvolvida com **Python + Django**, oferecendo uma interface web intuitiva e APIs RESTful para ingestão, visualização e análise de dados de equipamentos.
+
+**Destaques técnicos:**
+- **Ambiente Containerizado:** Arquitetura totalmente gerenciada por Docker e Docker Compose, garantindo portabilidade e um setup de desenvolvimento simplificado.
+- **API RESTful:** API robusta construída com Django REST Framework para manipulação completa dos dados dos sensores.
+- **Documentação Automatizada:** Documentação de API interativa e gerada automaticamente com Swagger (drf-yasg), facilitando a integração.
+- **Persistência de Dados:** Integração com PostgreSQL, utilizando o ORM do Django para um gerenciamento de dados seguro e eficiente.
+- **Processamento de Dados:** Módulo para importação de dados em lote (batch processing) a partir de arquivos CSV.
+- **Frontend Dinâmico:** Interface web com paginação, busca e visualização de análises, renderizada com o template engine do Django.
+
+
 ## 🔹 [Unify – Frontend](https://github.com/gaelcoder/unify-front)
 
 Interface web desenvolvida em **Angular**, consumindo as APIs do backend.
