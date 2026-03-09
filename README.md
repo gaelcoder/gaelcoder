@@ -57,7 +57,22 @@ Sistema acadêmico e administrativo desenvolvido com **Java + Spring Boot**, ofe
 
 ###
 
-## 🔹 [Sensorizador](htttps://github.com/gaelcoder/analise-sensores)
+## 🏨 [Eclipse Hotel](https://github.com/gaelcoder/EclipseHotel)
+
+API RESTful para gestão hoteleira desenvolvida com **Java + Spring Boot**, projetada para gerenciar clientes, quartos e reservas de forma eficiente e escalável.
+
+**Destaques técnicos:**
+- **Arquitetura Containerizada:** Ambiente completo com Docker e Docker Compose, orquestrando a aplicação e o banco de dados PostgreSQL para garantir consistência e portabilidade.
+- **API RESTful Robusta:** Endpoints construídos com Spring Web para operações CRUD completas e regras de negócio complexas, como validação de disponibilidade de quartos.
+- **Persistência de Dados Otimizada:** Integração com PostgreSQL através do Spring Data JPA e Hibernate, com mapeamento objeto-relacional e gerenciamento de transações.
+- **Documentação Automatizada:** Documentação de API interativa e gerada automaticamente com SpringDoc (Swagger), facilitando o teste e a integração dos endpoints.
+- **Integração com Serviços Externos:** Conexão com a API do ViaCEP para preenchimento automático de endereços a partir do CEP, melhorando a experiência do usuário.
+- **Otimização de Performance:** Implementação de cache com Spring Cache em consultas frequentes, reduzindo a latência e a carga sobre o banco de dados.
+- **Qualidade e Confiabilidade:** Cobertura de testes unitários com JUnit e Mockito para validar a lógica de negócio e garantir a estabilidade da aplicação.
+
+###
+
+## 🔹 [Sensorizador](https://github.com/gaelcoder/analise-sensores)
 
 Plataforma de monitoramento de sensores desenvolvida com **Python + Django**, oferecendo uma interface web intuitiva e APIs RESTful para ingestão, visualização e análise de dados de equipamentos.
 
@@ -69,15 +84,6 @@ Plataforma de monitoramento de sensores desenvolvida com **Python + Django**, of
 - **Processamento de Dados:** Módulo para importação de dados em lote (batch processing) a partir de arquivos CSV.
 - **Frontend Dinâmico:** Interface web com paginação, busca e visualização de análises, renderizada com o template engine do Django.
 
-
-## 🔹 [Unify – Frontend](https://github.com/gaelcoder/unify-front)
-
-Interface web desenvolvida em **Angular**, consumindo as APIs do backend.
-
-**Destaques técnicos:**
-- Integração com API REST
-- Estrutura modular
-- Foco em usabilidade
 
 ##
 
