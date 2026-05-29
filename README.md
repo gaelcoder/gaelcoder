@@ -1,4 +1,4 @@
-# Gabriel Lima
+# Gabriel Azevedo
 
 Software Engineering student focused on backend development with Java and Spring Boot, building scalable APIs, data-driven applications and automation solutions with Python.
 
