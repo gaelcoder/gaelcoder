@@ -1,28 +1,30 @@
-# Gabriel Azevedo
+Gabriel Azevedo
 
-Software Engineering student focused on backend development with Java and Spring Boot, building scalable APIs, data-driven applications and automation solutions with Python.
+Software Engineering student focused on backend development with Java and Spring Boot, building scalable APIs, distributed systems, cloud-native applications and automation solutions with Python.
 
 **Main stack:**  
-Java • Spring Boot • Python • PostgreSQL • MySQL • Docker • AWS • Git
+Java • Spring Boot • Python • PostgreSQL • Docker • AWS • Git
 
 **Currently learning:**  
-Cloud Architecture • Distributed Systems • CI/CD • Event-driven systems
+Cloud Architecture • Distributed Systems • Event-driven Systems • Microservices
 
 ---
 
 ## Featured Projects
 
-### Unify
-Academic and administrative management platform built with Java + Spring Boot.
+### Nimbus
+Banking microservices platform built with Java + Spring Boot + AWS.
 
-- Modular architecture
-- Role-based authentication
-- REST APIs
-- Spring Data JPA
-- Scalable domain organization
+- JWT authentication and authorization
+- Microservices architecture
+- Asynchronous communication with SQS/SNS
+- PostgreSQL and DynamoDB
+- AWS S3 and Lambda integration
+- Dockerized environment
+- Unit testing with JUnit & Mockito
+- Python automation with pandas and boto3
 
-**Repository:** https://github.com/gaelcoder/unify-new
-
+**Repository:** https://github.com/gaelcoder/nimbus
 ---
 
 ### Eclipse Hotel
