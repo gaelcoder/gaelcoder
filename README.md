@@ -6,11 +6,11 @@ My main focus is Java and Spring Boot, while continuously exploring software arc
 
 ---
 
-## 🧰 Main Stack
+## Main Stack
 
 **Backend**
 
-Java • Spring Boot • Python • Django • REST APIs
+Java • Spring Boot • Python 
 
 **Databases**
 
@@ -26,7 +26,7 @@ Cloud Architecture • Distributed Systems • Event-driven Architecture • Mic
 
 ---
 
-# 🚀 Featured Projects
+# Featured Projects
 
 ## Nimbus
 
@@ -129,7 +129,7 @@ https://github.com/gaelcoder/UniFy
 
 ---
 
-# 🎓 Education
+# Education
 
 ## Bachelor of Software Engineering
 
@@ -137,7 +137,7 @@ Expected graduation: 2028
 
 ---
 
-# 📚 Areas of Interest
+# Areas of Interest
 
 - Backend Engineering
 - Software Architecture
@@ -149,7 +149,7 @@ Expected graduation: 2028
 
 ---
 
-# 📫 Contact
+# Contact
 
 LinkedIn:
 
